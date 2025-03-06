@@ -5,36 +5,3 @@
 build/
 cmake-build-*/
 
-# Ignore OS-specific files
-.DS_Store
-Thumbs.db
-
-# Ignore editor-specific files
-*.swp
-*.swo
-*.vscode/
-
-# Ignore compiled object files
-*.o
-*.obj
-
-# Ignore executable files
-*.exe
-*.out
-*.app
-
-# Ignore libraries
-*.lib
-*.dll
-*.so
-*.dylib
-
-# Ignore other binaries
-*.bin
-*.elf
-
-# Ignore log files
-*.log
-
-# Ignore core dumps
-core.*
