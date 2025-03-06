@@ -14,27 +14,3 @@ Thumbs.db
 *.swo
 *.vscode/
 
-# Ignore compiled object files
-*.o
-*.obj
-
-# Ignore executable files
-*.exe
-*.out
-*.app
-
-# Ignore libraries
-*.lib
-*.dll
-*.so
-*.dylib
-
-# Ignore other binaries
-*.bin
-*.elf
-
-# Ignore log files
-*.log
-
-# Ignore core dumps
-core.*
